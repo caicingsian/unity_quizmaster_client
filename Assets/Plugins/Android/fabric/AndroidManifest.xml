@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.fabric.sdk.android.unity">
+  <application>
+    <meta-data android:name="io.fabric.ApiKey" android:value="784768d037b498bbef7aacc815a0bb91f016e771" />
+    <meta-data android:name="io.fabric.unity.crashlytics.version" android:value="1.0.0" />
+    <meta-data android:name="io.fabric.crashlytics.qualified" android:value="com.crashlytics.android.Crashlytics" />
+    <meta-data android:name="io.fabric.crashlytics.unqualified" android:value="Crashlytics" />
+    <meta-data android:name="io.fabric.kits" android:value="crashlytics" />
+  </application>
+</manifest>

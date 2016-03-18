@@ -1,0 +1,10 @@
+lastUpgrade=00926
+proj.AppId=583850063063
+proj.ConstantsClassName=Minimal.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e583850063063%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.samurai.quizmaster%3c%2fstring%3e%0a++%3cstring+name%3d%22event_welcome%22%3eCgkI1-mzgf8QEAIQAg%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=583850063063-civb4mch111jmcrsmokd0vpda3bi3aei.apps.googleusercontent.com
+android.SetupDone=true
+ios.ClientId=583850063063-civb4mch111jmcrsmokd0vpda3bi3aei.apps.googleusercontent.com
+ios.ResourceData=%23define+CLIENT_ID+%40%22583850063063-civb4mch111jmcrsmokd0vpda3bi3aei.apps.googleusercontent.com%22%0a%23define+BUNDLE_ID+%40%22com.samurai.quizmaster%22%0a%23define+EVENT_WELCOME+%40%22CgkI1-mzgf8QEAIQAg%22
+ios.BundleId=com.samurai.quizmaster
+ios.SetupDone=true
