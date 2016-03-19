@@ -1,9 +1,10 @@
-AssetBundles
-packages
+/AssetBundles
+/packages
 Temp
-ios
-obj
-Library
-Cert
+/obj
+/Library
+/Cert
+/ios
 bin
 .DS_Store
+
